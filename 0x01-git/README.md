@@ -1,1 +1,1 @@
-my socund readme up_to_date this
+I am a software engineer
